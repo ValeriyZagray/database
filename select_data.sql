@@ -1,0 +1,10 @@
+select id, first_name, last_name from usr order by id asc;
+select id, first_name, last_name from usr;
+select * from usr;
+select id, first_name, last_name from usr limit 5; 
+select id, email, last_name from usr order by id desc limit 5; 
+select id, email, last_name from usr where id<7;
+select id, first_name, last_name from usr where length(first_name)>7;
+select * from usr where birth_date>='2003-01-01 00:00:00' order by id;
+select first_name, last_name, birth_date from usr order by birth_date desc;
+select * from usr where (birth_date>='2003-01-01 00:00:00') and (birth_date<='2008-12-31 00:00:00') order by id;

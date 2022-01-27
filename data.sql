@@ -1,4 +1,4 @@
-insert into usr (first_name, middle_name, last_name, email) values
+insert into usr (first_name, middle_name, last_name, email, phone) values
 ('Сергей', 'Иванович', 'Иванов', 'braseiddammuwa-3088@yopmail.com'),
 ('Виктор', 'Иванович', 'Иванов', 'villoppozocreu-9275@yopmail.com'),
 ('Глеб', 'Иванович', 'Иванов', 'socegraupetra-9290@yopmail.com'),
@@ -8,5 +8,18 @@ insert into usr (first_name, middle_name, last_name, email) values
 ('Ольга', 'Иванович', 'Иванов', 'zaffiquetremo-7291@yopmail.com'),
 ('Наталья', 'Иванович', 'Иванов', 'pogittequanei-3035@yopmail.com'),
 ('Алексей', 'Иванович', 'Иванов', 'woidepeddouyou-1657@yopmail.com'),
-('Всеволод', 'Иванович', 'Иванов', 'bruyehullocra-4737@yopmail.com');
+('Всеволод', 'Иванович', 'Иванов', 'bruyehullocra-4737@yopmail.com'),
+('Петро', 'Иванович', 'Иванов', 'ewrgwerg-8982@yopmail.com', '+7(978)765-43-31'),
+('Маня', 'Иванович', 'Иванов', 'dhgfhfgh-9027@yopmail.com', '+7(978)765-43-22'),
+('Ваня', 'Иванович', 'Иванов', 'asdsafsadg-9141@yopmail.com', '+7(978)765-43-23'),
+('Миша', 'Иванов', 'Иванова', 'trhtktyj-3088@yopmail.com', '+7(978)765-43-24'),
+('Коля', 'Иванович', 'Иванов', 'svdfherw-9275@yopmail.com', '+7(978)765-43-25'),
+('Юра', 'Иванович', 'Иванов', 'dfdfgjfgkgh-9290@yopmail.com', '+7(978)765-43-26'),
+('Глаша', 'Иванович', 'Иванова', 'wewryttu-5063@yopmail.com', '+7(978)765-43-27'),
+('Маша', 'Иванович', 'Иванова', 'okwenasvfdrglewg-5926@yopmail.com', '+7(978)765-43-28'),
+('Таня', 'Иванович', 'Иванова', 'nmhmjjm-6593@yopmail.com', '+7(978)765-43-29'),
+('Ирина', 'Иванович', 'Иванов', 'wewwe-7291@yopmail.com', '+7(978)765-43-30'),
+('Олег', 'Иванович', 'Иванов', 'vfvf-3035@yopmail.com', '+7(978)765-43-31'),
+('Оля', 'Иванович', 'Иванова', 'frfrf-1657@yopmail.com', '+7(978)765-43-32'),
+('Виктория', 'Иванович', 'Иванова', 'ukuku-4737@yopmail.com', '+7(978)765-43-33');
 
